@@ -16,6 +16,6 @@ Reduce vibration
 Maintain or increase overall print quality
 
 This project is licensed as
-![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
+![image](https://github.com/Leviathan220/Jalopy-3D-Printer/blob/c231ebe9ecdcaebc7a136141b685074744ff98ae/LISCENSE.png)
 
 https://creativecommons.org/licenses/by-nc/4.0/
