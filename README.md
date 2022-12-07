@@ -26,16 +26,16 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 ## Custom Components:
 
 Infared Halogen Heaters - Hotend
-- Dual Ignition System - 2 20W G4 halogen bulbs (only tested for safety!)
+- [Dual Ignition System](https://github.com/Leviathan3DPrinting/Dual-Ignition-System) - 2 20W G4 halogen bulbs (only tested for safety!
 
 Infared Halogen Heater - Bed
 - Seat Warmers - 2 250W T3 halogen bulbs (unyet tested!)
 
 Bed
-- Carbon Fiber Bonnet - [240mmx240mmx3mm Carbon Fiber Bed](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Carbon%20Fiber%20Bonnet)
+- [Carbon Fiber Bonnet](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Carbon%20Fiber%20Bonnet) - 240mmx240mmx3mm Carbon Fiber Bed
 
 Bed Heater
-- Engine Compartment Heater - [225W Kapton Heater (Just Beautiful!)](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Engine%20Compartment%20Heater)
+- [Engine Compartment Heater](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Engine%20Compartment%20Heater) - 225W Kapton Heater (Just Beautiful!)
 
 Bed Spacers
 - Subframe Spacers - 6x10mm M4x0.7mm Alumina Toughened Zirconia (10% Al2O3)
