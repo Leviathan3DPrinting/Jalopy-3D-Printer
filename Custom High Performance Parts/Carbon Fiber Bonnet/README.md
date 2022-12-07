@@ -3,10 +3,14 @@
 ![Image of Carbon Fiber Bonnet Bed](https://github.com/Leviathan220/Jalopy-3D-Printer/blob/008c8682034c1e5073c3a5e200d2d5d51db17d0b/High-Performance-Parts/Carbon%20Fiber%20Hood/Images/Cabon_Fiber_Bed.jpeg)
 
 ## Project Description:
-   - A 240mmx240mmx3mm Carbon Fiber Print Bed
-   - Compatible with existing aluminum bed heater
-   - Lighter than existing glass bed
-   - Better looking!
+- 240mmx240mmx3mm Carbon Fiber Print Bed
+- Compatible with existing aluminum bed heater
+- Lighter than existing glass bed
+- 42% lighter than the aluminum bed
+- Mounting holes for strain relief or cable chain
+- Mounting holes for ADXL345
+- Way better looking!
+- More pronounced resonance (could just be the cheap plate)
 
 ## Shopping List:
 - The Basics:
