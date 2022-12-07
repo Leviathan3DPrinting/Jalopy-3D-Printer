@@ -77,6 +77,6 @@ TODO:
 - A HELLUVALOTTAWORK!
 
 This project is licensed as
-![image_of_licenses](https://github.com/Leviathan220/Jalopy-3D-Printer/blob/c231ebe9ecdcaebc7a136141b685074744ff98ae/LISCENSE.png)
+![image_of_license](https://github.com/Leviathan220/Jalopy-3D-Printer/blob/c231ebe9ecdcaebc7a136141b685074744ff98ae/LICENSE.png)
 
-https://creativecommons.org/licenses/by-nc/4.0/
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
