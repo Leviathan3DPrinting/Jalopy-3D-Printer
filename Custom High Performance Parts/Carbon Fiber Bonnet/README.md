@@ -9,8 +9,16 @@
    - Better looking!
 
 ## Shopping List:
-- 240mmX240mmX3mm Carbon Fiber Plate
-  - https://amzn.to/3iJEYYG
-- Filament Taulman/PLA
-  - https://taulman3d.com/carbonfiberalloynylonfilament.html
-  - https://amzn.to/3Bd31pd
+- The Basics:
+  - 240mmX240mmX3mm Carbon Fiber Plate
+    - [Amazon](https://amzn.to/3iJEYYG)
+  - Filament Taulman/PLA
+    - [Taulman3D](https://taulman3d.com/carbonfiberalloynylonfilament.html)
+    - [Amazon](https://amzn.to/3Bd31pd)
+- Tools:
+  - Countersink Drill Bit 5-Piece Set
+    - [Amazon](https://amzn.to/3UHoJZ8)
+  - 4.2mm Drill Bit
+    - [Amazon](https://amzn.to/3hftLym)
+  - 1/8" Drill Bit
+    - [Amazon](https://amzn.to/3iIsq3C)
