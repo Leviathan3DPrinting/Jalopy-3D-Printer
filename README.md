@@ -1,7 +1,7 @@
 # Jalopy-3D-Printer
 The Jalopy is a custom remix of the ender 3. Just seeing where this project takes me and where I end up.
 
-# Project Goals:
+## Project Goals:
 
 - Significantly Reduce overall print time
 
@@ -76,7 +76,7 @@ Y Motor Mounts
 TODO:
 - A HELLUVALOTTAWORK!
 
-This project is licensed as
+## This project is licensed as
 ![image_of_license](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/3c9b3dcbf7b711fca9938695c092bdc71c62a8bb/LICENSE.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
