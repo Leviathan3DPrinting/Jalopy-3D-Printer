@@ -5,7 +5,11 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 
 - Significantly Reduce overall print time
 
+- Maintain or increase overall print quality
+
 - Increase Speed/Acceleration
+
+- Reduce vibration
 
 - Reduce weight of moving components
 
@@ -13,9 +17,7 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 
 - Increase Stiffness of the frame
 
-- Reduce vibration
-
-- Maintain or increase overall print quality
+- Multiple Configurations (Mix and Match!)
 
 - Print PEEK no enclosure!
 
@@ -30,7 +32,7 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 Infared Halogen Heaters - Hotend
 - [Dual Ignition System](https://github.com/Leviathan3DPrinting/Dual-Ignition-System) - 2 20W G4 halogen bulbs (only tested for safety!)
 
-Infared Halogen Heater - Bed
+Infared Halogen Heaters - Bed
 - Seat Warmers - 2 250W T3 halogen bulbs (unyet tested!)
 
 Bed
@@ -47,26 +49,31 @@ Frame
   - Parts fit oiginal Ender 3 frame with modification (Modified panels for Ender 3 have been made!)
 
 Extrusion Fillers
-- Chassis Weights - printed housings filled with polymeric sand
+- [Chassis Weights](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Chassis%20Weights) - printed housings filled with polymeric sand
   - Great way to add mass to any printer!
 
 Screws
 - Fastners - All that sexy titanium hardware!
+
+
 
 ### Off the shelf!
 
 Mainboard
 - The King of Memphis! - Fystec Spider King
 
+Power Supplies
+- 1000HP Twin Engine - Meanwell UHP-500-24 PSU, Meanwell UHP-500-48 PSU
 
 Y Motor Mounts
-- AWD Y - Dual LDO [INSERT MODEL NUMBER]
+- AWD Y - Dual LDO Nema 17 42STH60-2004AH
 
 
-TODO:
+
+### TODO:
 - A HELLUVALOTTAWORK!
 
-## This project is licensed as
+### This project is licensed as
 ![image of license](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/3c9b3dcbf7b711fca9938695c092bdc71c62a8bb/LICENSE.png)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
