@@ -13,7 +13,7 @@
 [Etsy](https://www.etsy.com/listing/1351359610/ender-3jalopy-3d-printer-lightweight?ref=listings_manager_grid)
 
 ## Print Beds
-[Carbon Fiber Bonnet](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Carbon%20Fiber%20Bonnet)
+[Carbon Fiber Bonnet](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Carbon%20Fiber%20Bonnet)
 
 [Precise Printer Parts](https://preciseprinterparts.com/ender-3--cast-aluminum-bed.html)
 
