@@ -40,7 +40,7 @@ Bed Heater
 - [Engine Compartment Heater](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/ad34be1e4e56d2a3a7dab663aaee73733993598e/Custom%20High%20Performance%20Parts/Engine%20Compartment%20Heater) - 225W Kapton Heater (Just Beautiful!)
 
 Bed Spacers
-- [Ceramic Subframe Spacers]() - 6x10mm M4x0.7mm Yttria-stabilized zirconia (YSZ)
+- [Ceramic Subframe Spacers](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Caeramic%20Subframe%20Spacers) - 6x10mm M4x0.7mm Yttria-stabilized zirconia (YSZ)
 
 Frame
 - Chassis - Custom Frame
