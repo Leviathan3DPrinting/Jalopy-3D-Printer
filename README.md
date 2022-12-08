@@ -19,6 +19,8 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 
 - Multiple Configurations (Mix and Match!)
 
+- Show off how fast you can print [taulman3D Carbon Fiber Alloy Nylon 3D Printer Filament](https://taulman3d.com/carbonfiberalloynylonfilament.html)
+
 - Print PEEK no enclosure!
 
 - Take no prisoners!
