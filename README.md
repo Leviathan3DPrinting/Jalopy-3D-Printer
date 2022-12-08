@@ -26,7 +26,7 @@ The Jalopy is a custom remix of the ender 3. Just seeing where this project take
 ## Custom Components:
 
 Infared Halogen Heaters - Hotend
-- [Dual Ignition System](https://github.com/Leviathan3DPrinting/Dual-Ignition-System) - 2 20W G4 halogen bulbs (only tested for safety!
+- [Dual Ignition System](https://github.com/Leviathan3DPrinting/Dual-Ignition-System) - 2 20W G4 halogen bulbs (only tested for safety!)
 
 Infared Halogen Heater - Bed
 - Seat Warmers - 2 250W T3 halogen bulbs (unyet tested!)
@@ -74,9 +74,9 @@ TODO:
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
 ## Social Media
-[Youtube](https://www.youtube.com/@HoodPlastics)
-
-[Discord](https://discord.gg/yPuzRCrs)
+- [Youtube](https://www.youtube.com/@HoodPlastics)
+- [Discord](https://discord.gg/qpgeTM5KKV)
 
 ## Show your support!
-https://www.buymeacoffee.com/Leviathan3D
+- [Buymeacoffee](https://www.buymeacoffee.com/Leviathan3D)
+- [Etsy Shop](https://www.etsy.com/shop/Leviathan3DPrinting?ref=simple-shop-header-name&listing_id=1351359610)
