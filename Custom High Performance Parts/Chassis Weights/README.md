@@ -24,4 +24,5 @@ Printed housings filled with polymeric sand
     - [Amazon 10Lbs](https://amzn.to/3CdAYGG)
   - Filament Taulman/PLA
     - [Taulman3D](https://taulman3d.com/carbonfiberalloynylonfilament.html)
+    - [Taulman3D Amazon Deal - Glass Fiber](https://amzn.to/3YYpMr9)
     - [Amazon](https://amzn.to/3Bd31pd)
