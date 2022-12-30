@@ -70,7 +70,7 @@ Power Supplies
 Y Motor Mounts
 - AWD Y - Dual LDO Nema 17 42STH60-2004AH
 
-
+## PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
 
 ### TODO:
 - A HELLUVALOTTAWORK!
@@ -82,8 +82,14 @@ Y Motor Mounts
 
 ## Social Media
 - [Youtube](https://www.youtube.com/@HoodPlastics)
-- [Discord](https://discord.gg/qpgeTM5KKV)
+- [Instagram](https://www.instagram.com/leviathan3dprinting)
 
 ## Show your support!
-- [Buymeacoffee](https://www.buymeacoffee.com/Leviathan3D)
+- [Buymeacoffee](https://www.buymeacoffee.com/Leviathan3D) - Access to Discord and early access to STLs/CAD
 - [Etsy Shop](https://www.etsy.com/shop/Leviathan3DPrinting?ref=simple-shop-header-name&listing_id=1351359610)
+
+## Thanks to the hugely supportive community!
+- [Gulsifer](https://www.youtube.com/@Gulsifer) - Coolest dude on discord! [Support his work!](https://github.com/Gulsifer/Rook-3D-Printer-ROD-MOD)
+- [Rolohaun](https://www.youtube.com/@Rolohaun) - Rook! [Rook 3D Printer](https://github.com/rolohaun/Rook)
+- [Fail Fast!](https://www.youtube.com/@fail_fast) - Inspiring work on the [Monster Minion](https://discord.gg/9k7m44vcqj) 
+- [Vez3D](https://www.youtube.com/@Vez3D) - Inspiring work on the [VzBoT](https://github.com/VzBoT3D)
