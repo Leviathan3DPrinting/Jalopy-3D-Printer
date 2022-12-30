@@ -4,9 +4,9 @@
 
 ![CSS in manufacturing closeup](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/7d056a9d314013a93435a26173906051643c4d1c/Custom%20High%20Performance%20Parts/Caeramic%20Subframe%20Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.png)
 
-![CSS in manufacturing](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/Custom%20High Performance%20Parts/Caeramic%20Subframe%20Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg)
+![CSS in manufacturing](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/33696a33b48c3ffb380a4b1bf942659bad62b2ec/Custom%20High%20Performance%20Parts/Caeramic%20Subframe%20Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg)
 
-Leviathan3DPrinting/Jalopy-3D-Printer/Custom High Performance Parts/Caeramic Subframe Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg
+
 
 ## Project Description:
 - Ceramic Subframe Spacers - 6x10mm M4x0.7mm
