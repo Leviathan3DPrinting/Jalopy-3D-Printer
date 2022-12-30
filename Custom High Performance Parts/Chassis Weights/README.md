@@ -16,6 +16,11 @@ Printed housings filled with polymeric sand
 - Lower vibtations
 - Removable
 
+## Insipration
+- [The concrete wall - Vez3D](https://www.youtube.com/watch?v=RRLL_8HVTdA)
+
+- [At some point (during my lack of an engineering degree) I figured this out!](https://www.youtube.com/watch?v=bdCn-xrBLsE&t=14s)
+
 ## Shopping List:
 - The Basics:
   - Polymeric Sand - 50lb/35lb/10lb bag
