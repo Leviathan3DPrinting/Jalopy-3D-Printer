@@ -1,6 +1,8 @@
 # Jalopy-3D-Printer
 The Jalopy is a custom remix of the ender 3. Just seeing where this project takes me and where I end up.
 
+![Image of Jalopy 3D Printer](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/main/Images/Jalopy.HEIC)
+
 ## Project Goals:
 
 - Significantly Reduce overall print time
