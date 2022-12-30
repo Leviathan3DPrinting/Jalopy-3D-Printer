@@ -22,6 +22,8 @@ Printed housings filled with polymeric sand
     - [Amazon 50Lbs](https://amzn.to/3HfEeog)
     - [Lowe's 35Lbs](https://www.lowes.com/pd/CasaScapes-35-lb-Gray-Polymeric-Sand/1002635628?cm_mmc=shp-_-c-_-prd-_-lwn-_-ggl-_-LIA_LWN_236_Hardscapes-_-1002635628-_-local-_-0-_-0&ds_rl=1286981&gclid=Cj0KCQiAkMGcBhCSARIsAIW6d0DwYiAL0OsmLetcyg9iI3QSYJM_83s091eS3u48ZTW3C-n5tU1r4QwaAuDPEALw_wcB&gclsrc=aw.ds)
     - [Amazon 10Lbs](https://amzn.to/3CdAYGG)
+  - Super Glue
+    - [Amazon](https://amzn.to/3FY32i8)
   - Filament Taulman/PLA
     - [Taulman3D](https://taulman3d.com/carbonfiberalloynylonfilament.html)
     - [Taulman3D Amazon Deal - Glass Fiber](https://amzn.to/3YYpMr9)
