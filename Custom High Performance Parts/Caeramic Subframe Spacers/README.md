@@ -4,7 +4,7 @@
 
 ![CSS in manufacturing closeup](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/7d056a9d314013a93435a26173906051643c4d1c/Custom%20High%20Performance%20Parts/Caeramic%20Subframe%20Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.png)
 
-![CSS in manufacturing](https://github.com/Leviathan3DPrinting/Leviathan3DPrinting/Jalopy-3D-Printer/Custom High Performance Parts/Caeramic Subframe Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg)
+![CSS in manufacturing](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/Custom High Performance Parts/Caeramic Subframe Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg)
 
 Leviathan3DPrinting/Jalopy-3D-Printer/Custom High Performance Parts/Caeramic Subframe Spacers/Images/Ceramic_Subframe_Spacer_Manufacturing.jpg
 
