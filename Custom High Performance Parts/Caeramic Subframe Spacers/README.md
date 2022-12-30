@@ -1,5 +1,11 @@
 # Ceramic Subframe Spacers - Heated Bed Spacers
 
+![]()
+
+![]()
+
+![]()
+
 ## Project Description:
 - Ceramic Subframe Spacers - 6x10mm M4x0.7mm
 - Yttria-stabilized zirconia (YSZ)
