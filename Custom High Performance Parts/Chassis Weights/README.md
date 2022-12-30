@@ -1,15 +1,15 @@
 # Chassis Weights - Extrusion Fillers
 Printed housings filled with polymeric sand
 
-![Image of Chassis Weights](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chasis_Weight2.jpg)
+![Image of Chassis Weights](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chassis_Weight2.jpg)
 
-![Image of Chassis Weights 2040](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chasis_Weight1.jpg)
+![Image of Chassis Weights 2040](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chassis_Weight1.jpg)
 
-![Image of Chassis Weights 4040](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chasis_Weight3.jpg)
+![Image of Chassis Weights 4040](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chassis_Weight3.jpg)
 
-![Image of Chassis Weights Cap](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chasis_Weight4.jpg)
+![Image of Chassis Weights Cap](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chassis_Weight4.jpg)
 
-![Image of Chassis Weights Cap 4040 Printer](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chasis_Weight.jpg)
+![Image of Chassis Weights Cap 4040 Printer](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/blob/eb5fa4b6a6662f1999a2f29c402a7802fa137715/Custom%20High%20Performance%20Parts/Chassis%20Weights/Images/Chassis_Weight.jpg)
 
 ## Project Description:
 - Add a significant amount of mass to your printer
