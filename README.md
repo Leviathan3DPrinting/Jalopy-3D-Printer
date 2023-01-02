@@ -60,6 +60,9 @@ Extrusion Fillers
 - [Chassis Weights](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Chassis%20Weights) - printed housings filled with polymeric sand
   - Great way to add mass to any printer!
 
+Linear Rail Stops
+- [Brake Over Travel](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Brake%20Over%20Travel) - Low profile linear rail stops
+
 Screws
 - Fastners - All that sexy titanium hardware!
 
