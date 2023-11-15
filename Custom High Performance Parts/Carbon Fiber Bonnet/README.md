@@ -31,4 +31,7 @@
     - [Amazon](https://amzn.to/3iIsq3C)
 - Bed Heater:
   - [Engine Compartment Heater](https://github.com/Leviathan3DPrinting/Jalopy-3D-Printer/tree/main/Custom%20High%20Performance%20Parts/Engine%20Compartment%20Heater) - 24VDC 225W Kapton Heater
-     - [Etsy](https://www.etsy.com/listing/1351359610/ender-3jalopy-3d-printer-lightweight?ref=listings_manager_grid)
+  - [Etsy](https://www.etsy.com/listing/1351359610/ender-3jalopy-3d-printer-lightweight?ref=listings_manager_grid)
+- Cable Clip & KUSBA Mount:
+  - [PCBWay](https://www.pcbway.com/project/shareproject/Cable_Clip_8c9e17db.html) - Cable Clip
+  - [PCBWay](https://www.pcbway.com/project/shareproject/KUSBA_Mount_9fe5b209.html) - KUSBA Mount
